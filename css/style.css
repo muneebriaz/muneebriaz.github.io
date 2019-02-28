@@ -360,7 +360,9 @@ small,
 .small {
   font-size: 80%;
   font-weight: 400; }
-
+.respon-list{
+  font-size: 12px;
+}
 mark,
 .mark {
   padding: 0.2em;
